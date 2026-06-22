@@ -12,35 +12,43 @@ Kernidee:
 * Bürger*innen, Künstler*innen und Nachbarschaft entwickeln kleine Interventionen.
 * ZAM kuratiert, begleitet und ermöglicht die Umsetzung.
 * Sachkosten pro Mikroprojekt: ca. 500 EUR.
-* Geplant sind bis zu ca. 15 Mikroprojekte.
+* Geplant sind ca. 15 Mikroprojekte.
 * Abschluss ggf. im Rahmen von „Frei Bordsteinkante“.
 * Themen: Aufenthaltsqualität, Klima, Nachbarschaft, Kunst im öffentlichen Raum, Sichtbarkeit des ZAM im Stadtraum.
 * Die Stadt Erlangen wird wegen der Haushaltslage nicht als Geldgeberin eingeplant, bleibt aber mögliche Genehmigungs- und Kooperationspartnerin.
 
+## Bewertungskriterien
+
+Die Fördermöglichkeiten werden nach vier Kriterien bewertet:
+
+* inhaltliche Passung
+* realistischer Zielbetrag
+* Bewerbungsaufwand
+* Aufwand für Nachweise, Abrechnung und Dokumentation
+
+Da ein Gesamtbudget von ca. 40.000–50.000 EUR angestrebt wird, reicht eine rein lokale Kleinförderstrategie vermutlich nicht aus. Gleichzeitig soll der Verwaltungsaufwand möglichst überschaubar bleiben.
+
 ## Ranking
 
-## Ranking unter Berücksichtigung von Aufwand und Nachweispflichten
-
-| Rang | Förderung                                                | Passung            | Bewerbungsaufwand  | Nachweis-/Abwicklungsaufwand  | Einordnung                                                                                                       |
-| ---: | -------------------------------------------------------- | ------------------ | ------------------ | ----------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-|    1 | Sparkassenstiftung Erlangen – Bildung, Natur und Umwelt  | hoch               | niedrig bis mittel | vermutlich niedrig bis mittel | Sehr guter lokaler Baustein. Überschaubarer Antrag, aber vermutlich begrenzte Fördersumme.                       |
-|    2 | Bürgerstiftung Erlangen                                  | hoch               | niedrig            | vermutlich niedrig            | Sehr guter lokaler Baustein. Besonders geeignet für kleinere, sichtbare Teilfinanzierung.                        |
-|    3 | Fonds Soziokultur                                        | sehr hoch          | mittel             | mittel bis hoch               | Inhaltlich stärkste Hauptförderung, aber mit echtem Abrechnungs- und Dokumentationsaufwand.                      |
-|    4 | Demokratie leben / Partnerschaft für Demokratie Erlangen | mittel             | niedrig bis mittel | mittel                        | Interessant für Beteiligung/Dialog. Lokale Beratung senkt Aufwand, aber inhaltlich enger Zuschnitt nötig.        |
-|    5 | Kulturfonds Bayern                                       | mittel bis hoch    | mittel bis hoch    | mittel bis hoch               | Nur sinnvoll, wenn Kunst/Kultur stark im Vordergrund steht und überörtliche Bedeutung plausibel ist.             |
-|    6 | Klimaschutz nebenan                                      | niedrig bis mittel | niedrig            | niedrig                       | Einfach, aber eher für einzelne kleine Klimaschutzideen als für das Gesamtprojekt.                               |
-|    7 | DSEE Mikroförderung                                      | niedrig            | niedrig            | niedrig                       | Einfaches Verfahren, aber Fördersumme zu klein und Erlangen Innenstadt vermutlich nicht passender Raumtyp.       |
-|    8 | BMUKN/UBA/BfN Verbändeförderung                          | mittel bis hoch    | hoch               | hoch                          | Inhaltlich möglich bei starkem Umweltfokus, aber Bundesförderung mit erheblichem Verwaltungsaufwand.             |
-|    9 | Aktion Mensch                                            | niedrig bis mittel | mittel             | mittel                        | Nur bei echtem Inklusions-/Barrierefreiheitsfokus sinnvoll. Sonst nicht passend genug.                           |
-|   10 | Deutsche Postcode Lotterie                               | mittel             | mittel             | mittel                        | Inhaltlich passend, aber derzeit nicht planbar, da neue Anträge/Interessensbekundungen ausgesetzt sind.          |
-|   11 | Deutsche Fernsehlotterie / Deutsches Hilfswerk           | mittel             | hoch               | hoch                          | Eher große soziale Quartiersprojekte. Für ZAM-Stadtlabor wahrscheinlich zu schwerfällig.                         |
-|   12 | DBU                                                      | mittel             | sehr hoch          | sehr hoch                     | Nur für ein großes, modellhaftes Umweltprojekt sinnvoll. Für schlankes Stadtlabor zu aufwendig.                  |
-|    – | Stadt Erlangen / Klimabudget                             | inhaltlich hoch    | –                  | –                             | Wegen Haushaltslage nicht als Finanzierungsquelle einplanen. Stadt eher als Genehmigungs-/Kooperationspartnerin. |
-
+| Rang | Förderung                                               | Passung            | Realistischer Zielbetrag für ZAM | Aufwand            |
+| ---: | ------------------------------------------------------- | ------------------ | -------------------------------: | ------------------ |
+|    1 | Fonds Soziokultur                                       | sehr hoch          |                20.000–30.000 EUR | mittel bis hoch    |
+|    2 | Sparkassenstiftung Erlangen – Bildung, Natur und Umwelt | hoch               |                  2.000–7.000 EUR | niedrig bis mittel |
+|    3 | Bürgerstiftung Erlangen                                 | hoch               |                  1.000–5.000 EUR | niedrig            |
+|    4 | Kulturfonds Bayern                                      | mittel bis hoch    |                 5.000–20.000 EUR | mittel bis hoch    |
+|    5 | Demokratie leben / PfD Erlangen                         | mittel             |                  1.000–5.000 EUR | niedrig bis mittel |
+|    6 | Klimaschutz nebenan                                     | niedrig bis mittel |                  1.000–2.000 EUR | niedrig            |
+|    7 | BMUKN / UBA / BfN Verbändeförderung                     | mittel bis hoch    |                20.000–50.000 EUR | hoch               |
+|    8 | Deutsche Postcode Lotterie                              | mittel             |               bis ca. 30.000 EUR | mittel             |
+|    9 | Aktion Mensch                                           | niedrig bis mittel |           stark programmabhängig | mittel             |
+|   10 | Deutsche Fernsehlotterie / Deutsches Hilfswerk          | mittel             |                      30.000 EUR+ | hoch               |
+|   11 | DBU                                                     | mittel             |                      50.000 EUR+ | sehr hoch          |
+|   12 | DSEE Mikroförderung                                     | niedrig            |                    bis 1.500 EUR | niedrig            |
+|    – | Stadt Erlangen / Klimabudget                            | inhaltlich hoch    |                 0 EUR eingeplant | –                  |
 
 ## 1. Fonds Soziokultur
 
-**Einschätzung:** beste Hauptförderung.
+**Einschätzung:** beste Hauptförderung trotz relevantem Aufwand.
 
 Der Fonds Soziokultur passt sehr gut, wenn das Projekt als soziokulturelles Stadtlabor beschrieben wird: Beteiligung, Kunst/Kultur, öffentlicher Raum, Nachbarschaft, gesellschaftliche Fragen und aktive Mitgestaltung durch Bürger*innen.
 
@@ -55,11 +63,13 @@ Besonders passend:
 
 Weniger passend wäre eine Darstellung als reines Sachkostenprogramm oder Bürgerfonds. Der kulturelle und partizipative Prozess muss im Mittelpunkt stehen.
 
-**Mögliche Rolle:** Hauptförderung, z. B. 25.000–30.000 EUR bei einem Gesamtbudget von ca. 40.000–50.000 EUR.
+Der Aufwand ist nicht gering: Es braucht Antrag, Kosten- und Finanzierungsplan, saubere Abrechnung, Dokumentation und Verwendungsnachweis. Im Vergleich zu größeren Bundes- oder Modellförderungen ist der Aufwand aber noch handhabbar.
+
+**Mögliche Rolle:** Hauptförderung. Ohne diese Schiene wird ein Gesamtbudget von 40.000–50.000 EUR schwer erreichbar.
 
 ## 2. Sparkassenstiftung Erlangen – Bildung, Natur und Umwelt
 
-**Einschätzung:** sehr gute lokale Kofinanzierung.
+**Einschätzung:** sehr gute lokale Kofinanzierung mit überschaubarem Aufwand.
 
 Die Stiftung passt besonders für Bildung, Natur, Umwelt und lokale Gemeinnützigkeit. ZAM e.V. als gemeinnütziger Erlanger Verein ist grundsätzlich naheliegend.
 
@@ -71,13 +81,13 @@ Besonders passend:
 * Materialkosten für Mikroprojekte
 * lokale Sichtbarkeit
 
-Eher nicht als alleinige Hauptförderung einplanen, da die Fördersummen vermutlich begrenzt sind.
+Eher nicht als alleinige Hauptförderung einplanen, da die Fördersummen vermutlich begrenzt sind. Der Aufwand wirkt vergleichsweise überschaubar, sollte aber vorab telefonisch geklärt werden.
 
-**Mögliche Rolle:** 2.000–7.000 EUR, vor allem für Material, Workshops oder Umwelt-/Bildungsbausteine.
+**Mögliche Rolle:** lokale Kofinanzierung für Material, Workshops oder Umwelt-/Bildungsbausteine.
 
 ## 3. Bürgerstiftung Erlangen
 
-**Einschätzung:** gute lokale Kofinanzierung.
+**Einschätzung:** gute lokale Kofinanzierung mit niedrigem Aufwand.
 
 Die Bürgerstiftung passt wegen lokalem Gemeinwohl, bürgerschaftlichem Engagement, Nachbarschaft und sozialem Zusammenhalt.
 
@@ -89,9 +99,9 @@ Besonders passend:
 * gemeinnütziger Träger
 * sichtbares Projekt im öffentlichen Raum
 
-Eher nicht als Hauptförderung, sondern als Baustein zur Finanzierung des Eigenanteils.
+Eher nicht als Hauptförderung, sondern als Baustein zur Finanzierung des Eigen- oder Drittmittelanteils.
 
-**Mögliche Rolle:** 1.000–5.000 EUR.
+**Mögliche Rolle:** kleine, gut begründbare lokale Kofinanzierung.
 
 ## 4. Kulturfonds Bayern
 
@@ -107,47 +117,11 @@ Besonders passend:
 * Zusammenarbeit mit Künstler*innen
 * Abschlussformat mit Festivalcharakter
 
-Weniger passend, wenn der Fokus vor allem auf Stadtmöbeln, Begrünung oder Nachbarschaftsarbeit liegt. Außerdem ist die Förderung nur anteilig und stärker kulturfachlich zu begründen.
+Weniger passend, wenn der Fokus vor allem auf Stadtmöbeln, Begrünung oder Nachbarschaftsarbeit liegt. Der Aufwand ist höher als bei lokalen Stiftungen und der Antrag muss kulturfachlich überzeugend sein.
 
-**Mögliche Rolle:** Kulturbaustein oder Teilfinanzierung, nicht zwingend Hauptförderung.
+**Mögliche Rolle:** Teilfinanzierung für den Kunst-/Kulturbaustein, nicht zwingend Hauptförderung.
 
-## 5. BMUKN / UBA / BfN – Verbändeförderung Umwelt- und Naturschutz
-
-**Einschätzung:** möglich, aber nur bei stärkerem Umweltprofil.
-
-Diese Förderung passt, wenn das Projekt deutlich auf Umweltbildung, Klimaanpassung, Stadtgrün, Hitze, Biodiversität oder nachhaltige Quartiersgestaltung ausgerichtet wird.
-
-Besonders passend:
-
-* Klimaanpassung im Stadtraum
-* Hitze, Schatten, Begrünung
-* Umweltbildung durch praktisches Tun
-* nachbaubare Mikro-Interventionen
-* Engagement für Umwelt- und Naturschutz
-
-Schwächer passend, wenn Kunst, Nachbarschaft und Aufenthaltsqualität dominieren. Außerdem dürfte ein modellhafter oder übertragbarer Charakter wichtig sein.
-
-**Mögliche Rolle:** alternative Hauptförderung oder großer Umweltbaustein, wenn das Projekt entsprechend geschärft wird.
-
-## 6. Deutsche Bundesstiftung Umwelt (DBU)
-
-**Einschätzung:** eher für eine größere, modellhafte Version.
-
-Die DBU passt grundsätzlich zu nachhaltiger Quartiersentwicklung, Klimaanpassung und modellhaften Umweltprojekten. Für ein normales lokales Mikroprojekt-Programm wäre sie aber vermutlich zu groß und zu anspruchsvoll.
-
-Passend bei:
-
-* klarer Modellhaftigkeit
-* Übertragbarkeit auf andere Quartiere
-* systematischer Dokumentation
-* Klimaanpassung / Ressourcenschonung als Kern
-* ggf. Partner wie FAU, Umweltakteure oder Stadtplanung
-
-Weniger passend für ein kleines, lokales Beteiligungsformat ohne starke Umweltinnovation.
-
-**Mögliche Rolle:** nur prüfen, wenn das Projekt deutlich größer und modellhafter gedacht wird.
-
-## 7. Demokratie leben / Partnerschaft für Demokratie Erlangen
+## 5. Demokratie leben / Partnerschaft für Demokratie Erlangen
 
 **Einschätzung:** passend für Beteiligung und demokratischen Stadtraum, aber nicht als Hauptförderung.
 
@@ -161,26 +135,62 @@ Besonders passend:
 * Nachbarschaft, Vielfalt, Zusammenhalt
 * Dialog mit Stadtgesellschaft
 
-Weniger passend für bauliche, gestalterische oder rein kulturelle Maßnahmen. Außerdem ist die Förderlage für 2027 politisch/programmatisch zu prüfen.
+Weniger passend für bauliche, gestalterische oder rein kulturelle Maßnahmen. Der Aufwand ist vermutlich moderat, weil es eine lokale Struktur gibt. Dafür muss der Demokratie-/Dialogaspekt klar herausgearbeitet werden.
 
 **Mögliche Rolle:** Beteiligungsworkshops, Dialogformate, Moderation, Abschlussdiskussion.
 
-## 8. Deutsche Fernsehlotterie / Deutsches Hilfswerk
+## 6. Klimaschutz nebenan
 
-**Einschätzung:** thematisch möglich, aber vermutlich nicht erste Wahl.
+**Einschätzung:** einfach, aber eher für einzelne Mikroideen.
 
-Die Fernsehlotterie fördert Quartier und Nachbarschaft. Das passt zum sozialen Zusammenhalt und zur Aktivierung eines Stadtraums.
+Der Wettbewerb passt gut zu einfachen Klimaschutzideen in der Nachbarschaft, aber weniger zu einem kuratierten Gesamtprogramm mit 15 Projekten, Koordination und Abschlussformat.
 
 Passend bei:
 
-* Nachbarschaft stärken
-* Teilhabe und Begegnung
-* Quartiersentwicklung
-* bürgerschaftliches Engagement
+* einzelne Bürger*innenidee
+* kleines Klimaschutzprojekt
+* Nachbarschaftsbezug
+* niedrigem Verwaltungsaufwand
 
-Weniger passend, wenn der Kunst-/Stadtlaborcharakter im Vordergrund steht. Die Förderung wirkt eher sozialräumlich und häufig größer angelegt.
+Nicht passend als Hauptfinanzierung für das ZAM-Stadtlabor.
 
-**Mögliche Rolle:** prüfen, wenn ein stärker sozialer Quartiersansatz entsteht.
+**Mögliche Rolle:** ergänzende Förderung für einzelne Teams oder als Inspiration für Call-Ideen.
+
+## 7. BMUKN / UBA / BfN – Verbändeförderung Umwelt- und Naturschutz
+
+**Einschätzung:** möglich, aber nur bei stärkerem Umweltprofil und deutlich höherem Aufwand.
+
+Diese Förderung passt, wenn das Projekt deutlich auf Umweltbildung, Klimaanpassung, Stadtgrün, Hitze, Biodiversität oder nachhaltige Quartiersgestaltung ausgerichtet wird.
+
+Besonders passend:
+
+* Klimaanpassung im Stadtraum
+* Hitze, Schatten, Begrünung
+* Umweltbildung durch praktisches Tun
+* nachbaubare Mikro-Interventionen
+* Engagement für Umwelt- und Naturschutz
+* modellhafter Charakter
+
+Schwächer passend, wenn Kunst, Nachbarschaft und Aufenthaltsqualität dominieren. Der Aufwand ist hoch: Bundesförderlogik, formaler Antrag, Pflichtanlagen, Abrechnung und Nachweise.
+
+**Mögliche Rolle:** alternative Hauptförderung nur dann, wenn das Projekt klar als Umwelt-/Klimaanpassungsprojekt geschärft wird.
+
+## 8. Deutsche Postcode Lotterie
+
+**Einschätzung:** inhaltlich interessant, aktuell schlecht planbar.
+
+Die Postcode Lotterie passt grundsätzlich zu sozialem Zusammenhalt, Natur-/Umweltschutz und gemeinnützigen Projekten.
+
+Passend bei:
+
+* sozialer Zusammenhalt
+* grüne Nachbarschaft
+* gemeinnütziger Träger
+* lokale Wirkung
+
+Problematisch ist die Planbarkeit: Die Annahme neuer Interessenbekundungen und Förderanträge ist derzeit ausgesetzt. Daher sollte diese Förderung beobachtet, aber nicht fest eingeplant werden.
+
+**Mögliche Rolle:** mögliche Zusatzoption, falls die Antragstellung wieder öffnet.
 
 ## 9. Aktion Mensch
 
@@ -195,50 +205,50 @@ Passend bei:
 * Orientierung, Zugänglichkeit, Sicherheit
 * Beteiligung von Menschen mit Behinderung
 
-Nicht passend, wenn Inklusion nur ein Nebenaspekt ist.
+Nicht passend, wenn Inklusion nur ein Nebenaspekt ist. Der Aufwand ist moderat, aber die inhaltliche Passung müsste sehr sauber begründet werden.
 
 **Mögliche Rolle:** Teilprojekt „barrierearmes ZAM-Umfeld“.
 
-## 10. Deutsche Postcode Lotterie
+## 10. Deutsche Fernsehlotterie / Deutsches Hilfswerk
 
-**Einschätzung:** inhaltlich passend, aktuell schlecht planbar.
+**Einschätzung:** thematisch möglich, aber vermutlich zu schwerfällig.
 
-Die Postcode Lotterie passt grundsätzlich zu sozialem Zusammenhalt, Natur-/Umweltschutz und gemeinnützigen Projekten. Aktuell ist die Annahme neuer Interessenbekundungen jedoch ausgesetzt.
-
-Passend bei:
-
-* sozialer Zusammenhalt
-* grüne Nachbarschaft
-* gemeinnütziger Träger
-* lokale Wirkung
-
-Problem:
-
-* derzeit keine verlässliche Antragsperspektive
-
-**Mögliche Rolle:** beobachten, aber nicht fest einplanen.
-
-## 11. Klimaschutz nebenan
-
-**Einschätzung:** eher für einzelne Mikroideen als für das Gesamtprojekt.
-
-Der Wettbewerb passt gut zu einfachen Klimaschutzideen in der Nachbarschaft, aber weniger zu einem kuratierten Gesamtprogramm mit 15 Projekten, Koordination und Abschlussformat.
+Die Fernsehlotterie fördert Quartier und Nachbarschaft. Das passt zum sozialen Zusammenhalt und zur Aktivierung eines Stadtraums.
 
 Passend bei:
 
-* einzelne Bürger*innenidee
-* kleines Klimaschutzprojekt
-* Nachbarschaftsbezug
+* Nachbarschaft stärken
+* Teilhabe und Begegnung
+* Quartiersentwicklung
+* bürgerschaftliches Engagement
 
-Nicht passend als Hauptfinanzierung für das ZAM-Stadtlabor.
+Weniger passend, wenn der Kunst-/Stadtlaborcharakter im Vordergrund steht. Der Aufwand ist eher hoch und die Förderung wirkt stärker auf größere soziale Quartiersprojekte ausgerichtet.
 
-**Mögliche Rolle:** ergänzende Förderung für einzelne Teams.
+**Mögliche Rolle:** nur prüfen, wenn das Projekt deutlich sozialräumlicher und größer gedacht wird.
+
+## 11. Deutsche Bundesstiftung Umwelt (DBU)
+
+**Einschätzung:** eher für eine größere, modellhafte Version.
+
+Die DBU passt grundsätzlich zu nachhaltiger Quartiersentwicklung, Klimaanpassung und modellhaften Umweltprojekten. Für ein normales lokales Mikroprojekt-Programm wäre sie vermutlich zu groß und zu anspruchsvoll.
+
+Passend bei:
+
+* klarer Modellhaftigkeit
+* Übertragbarkeit auf andere Quartiere
+* systematischer Dokumentation
+* Klimaanpassung / Ressourcenschonung als Kern
+* ggf. Partner wie FAU, Umweltakteure oder Stadtplanung
+
+Weniger passend für ein schlankes, lokales Beteiligungsformat ohne starke Umweltinnovation. Der Aufwand ist sehr hoch: Skizze, Vollantrag, Berichte, Verwendungsnachweise, fachliche Abwicklung.
+
+**Mögliche Rolle:** nur prüfen, wenn das Projekt deutlich größer und modellhafter gedacht wird.
 
 ## 12. DSEE Mikroförderung
 
-**Einschätzung:** eher nicht passend.
+**Einschätzung:** einfach, aber für das Projekt zu klein und räumlich nicht ideal passend.
 
-Die DSEE-Mikroförderung ist klein und fokussiert auf Engagementstrukturen, besonders in ländlichen oder strukturschwachen Räumen. Das zentrale Erlanger ZAM-Umfeld passt dazu nur eingeschränkt.
+Die DSEE-Mikroförderung ist niedrigschwellig und verwaltungsarm. Sie fokussiert aber vor allem auf Engagementstrukturen, besonders in ländlichen oder strukturschwachen Räumen.
 
 Problematisch:
 
@@ -246,9 +256,9 @@ Problematisch:
 * Fokus nicht Stadtraum/Kultur/Klima
 * Erlangen Innenstadt vermutlich kein idealer Raumtyp
 
-**Mögliche Rolle:** höchstens für kleine Ehrenamtsstruktur-Bausteine.
+**Mögliche Rolle:** höchstens für kleine Ehrenamtsstruktur-Bausteine, nicht für das Stadtlabor.
 
-## 13. Stadt Erlangen / Klimabudget / kommunale Mittel
+## Stadt Erlangen / Klimabudget / kommunale Mittel
 
 **Einschätzung:** inhaltlich passend, praktisch nicht einplanen.
 
@@ -265,13 +275,14 @@ Trotzdem bleibt die Stadt wichtig als:
 
 ## Förderstrategie
 
-Empfohlene Hauptstrategie:
+Empfohlene Strategie für ein Gesamtbudget von ca. 40.000–50.000 EUR:
 
 1. **Fonds Soziokultur** als Hauptförderung.
 2. **Sparkassenstiftung** und **Bürgerstiftung** als lokale Kofinanzierung.
-3. **Kulturfonds Bayern** prüfen, wenn der Kunstanteil stark genug wird.
-4. **BMUKN/UBA/BfN** nur verfolgen, wenn Klima/Umwelt zum Kern wird.
-5. Stadt Erlangen nur als Kooperations- und Genehmigungspartnerin einplanen.
+3. **Kulturfonds Bayern** nur prüfen, wenn Kunst im öffentlichen Raum stark genug wird.
+4. **Demokratie leben / PfD** für einen Beteiligungs- oder Dialogbaustein prüfen.
+5. **BMUKN/UBA/BfN** nur verfolgen, wenn Klima/Umwelt zum klaren Kern wird.
+6. Stadt Erlangen nur als Kooperations- und Genehmigungspartnerin einplanen.
 
 ## Empfohlene Projektpositionierung
 
@@ -283,14 +294,12 @@ Sondern:
 
 > Kuratiertes soziokulturelles Stadtlabor, in dem Bürger*innen, Künstler*innen und Nachbarschaft offene Prototypen für ein klimaangepasstes, lebendiges und gemeinschaftliches ZAM-Umfeld entwickeln, bauen, testen und öffentlich präsentieren.
 
-## Vorläufige Priorität
+## Praktischer nächster Schritt
 
-Für den nächsten Arbeitsschritt sollten zuerst vertieft werden:
+Zuerst sollten drei Gespräche geführt werden:
 
-1. Fonds Soziokultur
-2. Sparkassenstiftung Erlangen
-3. Bürgerstiftung Erlangen
-4. Kulturfonds Bayern
-5. BMUKN/UBA/BfN Verbändeförderung
+1. Fonds Soziokultur: Beratung zur Passung und zum Aufwand.
+2. Sparkassenstiftung Erlangen: mögliche Fördersumme und Nachweispflichten klären.
+3. Bürgerstiftung Erlangen: mögliche Fördersumme und unkomplizierte Kofinanzierung klären.
 
-Alle anderen Förderungen bleiben Beobachtungs- oder Ergänzungsoptionen.
+Danach kann entschieden werden, ob das Projekt als 40.000–50.000-EUR-Projekt realistisch ist oder ob eine kleinere Pilotvariante sinnvoller wäre.
