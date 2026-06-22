@@ -12,28 +12,31 @@ Kernidee:
 * Bürger*innen, Künstler*innen und Nachbarschaft entwickeln kleine Interventionen.
 * ZAM kuratiert, begleitet und ermöglicht die Umsetzung.
 * Sachkosten pro Mikroprojekt: ca. 500 EUR.
-* Geplant sind ca. 15 Mikroprojekte.
+* Geplant sind bis zu ca. 15 Mikroprojekte.
 * Abschluss ggf. im Rahmen von „Frei Bordsteinkante“.
 * Themen: Aufenthaltsqualität, Klima, Nachbarschaft, Kunst im öffentlichen Raum, Sichtbarkeit des ZAM im Stadtraum.
 * Die Stadt Erlangen wird wegen der Haushaltslage nicht als Geldgeberin eingeplant, bleibt aber mögliche Genehmigungs- und Kooperationspartnerin.
 
 ## Ranking
 
-| Rang | Förderung                                       | Passung                            | Rolle                                        |
-| ---: | ----------------------------------------------- | ---------------------------------- | -------------------------------------------- |
-|    1 | Fonds Soziokultur                               | sehr hoch                          | Hauptförderung                               |
-|    2 | Sparkassenstiftung Bildung, Natur und Umwelt    | hoch                               | lokale Kofinanzierung                        |
-|    3 | Bürgerstiftung Erlangen                         | hoch                               | lokale Kofinanzierung                        |
-|    4 | Kulturfonds Bayern                              | mittel bis hoch                    | Kunst-/Kulturbaustein                        |
-|    5 | BMUKN/UBA/BfN Verbändeförderung                 | mittel bis hoch                    | Klima-/Umweltbaustein                        |
-|    6 | DBU                                             | mittel                             | größeres Modellprojekt                       |
-|    7 | Demokratie leben / Partnerschaft für Demokratie | mittel                             | Beteiligungs-/Dialogbaustein                 |
-|    8 | Deutsche Fernsehlotterie                        | mittel                             | Quartier/Nachbarschaft, eher größer          |
-|    9 | Aktion Mensch                                   | niedrig bis mittel                 | nur bei Inklusionsfokus                      |
-|   10 | Deutsche Postcode Lotterie                      | derzeit niedrig                    | inhaltlich passend, aktuell schlecht planbar |
-|   11 | Klimaschutz nebenan                             | niedrig                            | eher für Einzelideen                         |
-|   12 | DSEE Mikroförderung                             | niedrig                            | zu klein / falscher Raumtyp                  |
-|   13 | Stadt Erlangen / Klimabudget                    | inhaltlich hoch, praktisch niedrig | wegen Haushaltslage nicht einplanen          |
+## Ranking unter Berücksichtigung von Aufwand und Nachweispflichten
+
+| Rang | Förderung                                                | Passung            | Bewerbungsaufwand  | Nachweis-/Abwicklungsaufwand  | Einordnung                                                                                                       |
+| ---: | -------------------------------------------------------- | ------------------ | ------------------ | ----------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+|    1 | Sparkassenstiftung Erlangen – Bildung, Natur und Umwelt  | hoch               | niedrig bis mittel | vermutlich niedrig bis mittel | Sehr guter lokaler Baustein. Überschaubarer Antrag, aber vermutlich begrenzte Fördersumme.                       |
+|    2 | Bürgerstiftung Erlangen                                  | hoch               | niedrig            | vermutlich niedrig            | Sehr guter lokaler Baustein. Besonders geeignet für kleinere, sichtbare Teilfinanzierung.                        |
+|    3 | Fonds Soziokultur                                        | sehr hoch          | mittel             | mittel bis hoch               | Inhaltlich stärkste Hauptförderung, aber mit echtem Abrechnungs- und Dokumentationsaufwand.                      |
+|    4 | Demokratie leben / Partnerschaft für Demokratie Erlangen | mittel             | niedrig bis mittel | mittel                        | Interessant für Beteiligung/Dialog. Lokale Beratung senkt Aufwand, aber inhaltlich enger Zuschnitt nötig.        |
+|    5 | Kulturfonds Bayern                                       | mittel bis hoch    | mittel bis hoch    | mittel bis hoch               | Nur sinnvoll, wenn Kunst/Kultur stark im Vordergrund steht und überörtliche Bedeutung plausibel ist.             |
+|    6 | Klimaschutz nebenan                                      | niedrig bis mittel | niedrig            | niedrig                       | Einfach, aber eher für einzelne kleine Klimaschutzideen als für das Gesamtprojekt.                               |
+|    7 | DSEE Mikroförderung                                      | niedrig            | niedrig            | niedrig                       | Einfaches Verfahren, aber Fördersumme zu klein und Erlangen Innenstadt vermutlich nicht passender Raumtyp.       |
+|    8 | BMUKN/UBA/BfN Verbändeförderung                          | mittel bis hoch    | hoch               | hoch                          | Inhaltlich möglich bei starkem Umweltfokus, aber Bundesförderung mit erheblichem Verwaltungsaufwand.             |
+|    9 | Aktion Mensch                                            | niedrig bis mittel | mittel             | mittel                        | Nur bei echtem Inklusions-/Barrierefreiheitsfokus sinnvoll. Sonst nicht passend genug.                           |
+|   10 | Deutsche Postcode Lotterie                               | mittel             | mittel             | mittel                        | Inhaltlich passend, aber derzeit nicht planbar, da neue Anträge/Interessensbekundungen ausgesetzt sind.          |
+|   11 | Deutsche Fernsehlotterie / Deutsches Hilfswerk           | mittel             | hoch               | hoch                          | Eher große soziale Quartiersprojekte. Für ZAM-Stadtlabor wahrscheinlich zu schwerfällig.                         |
+|   12 | DBU                                                      | mittel             | sehr hoch          | sehr hoch                     | Nur für ein großes, modellhaftes Umweltprojekt sinnvoll. Für schlankes Stadtlabor zu aufwendig.                  |
+|    – | Stadt Erlangen / Klimabudget                             | inhaltlich hoch    | –                  | –                             | Wegen Haushaltslage nicht als Finanzierungsquelle einplanen. Stadt eher als Genehmigungs-/Kooperationspartnerin. |
+
 
 ## 1. Fonds Soziokultur
 
